@@ -29,6 +29,7 @@ The next section will better deepen the game events.
 ## Technologies
 - Java 1.8 api
 - Eclipse IDE
+- MVC pattern
 - Observer pattern (deprecated)
 - Javadoc (english and italian version)
 - JUnit Test 5
