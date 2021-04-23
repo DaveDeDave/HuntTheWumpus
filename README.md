@@ -30,6 +30,8 @@ The next section will better deepen the game events.
 - Java 1.8 api
 - Eclipse IDE
 - Observer pattern (deprecated)
+- Javadoc (english and italian version)
+- JUnit Test 5
 
 ## Disclaimer
 All images and icons used in this project belong to their rightful owners
