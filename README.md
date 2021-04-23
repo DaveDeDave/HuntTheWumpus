@@ -1,5 +1,5 @@
 # HuntTheWumpus
-![alt text](https://raw.githubusercontent.com/DaveDeDave/HuntTheWumpus/main/docs/gamePreview.png?token=ASKQWYVZQZKMUTLIL3HPCXLARRXIC)
+![gamePreview](https://raw.githubusercontent.com/DaveDeDave/HuntTheWumpus/main/docs/gamePreview.png?token=ASKQWYVZQZKMUTLIL3HPCXLARRXIC)
 The classical Hunt The Wumpus game written in Java. 
 This game has been developed for a project at the University of Eastern Piedmont during the course of programming paradigms: OOP in collaboration of LukeAz
 
